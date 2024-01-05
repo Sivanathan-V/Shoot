@@ -1,0 +1,14 @@
+
+//===============Session In=======================//
+
+Test Execution started at 04-Jan-2024 01:37:24
+Scenario 'post bug in JIRA' is executing..
+URL launched
+Adding header: io.restassured.internal.RequestSpecificationImpl@28e91f6d
+Adding body : io.restassured.internal.RequestSpecificationImpl@28e91f6d
+sending request to the endPoint : io.restassured.internal.RestAssuredResponseImpl@3bf41cd0
+^^^^Test successfully completed^^^^
+Test Execution Completed at 04-Jan-2024 01:37:37
+
+//===============Session Out=======================//
+
